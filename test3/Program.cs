@@ -6,6 +6,7 @@ namespace test3
     class MainClass
     {
 
+        
         static bool Hit(int circleX, int circleY, int rad, int x, int y)
         {
             
@@ -23,21 +24,31 @@ namespace test3
         }
 
 
+        
+
         public static void Main(string[] args)
         {
-            int shapeType = 20;
-            int instancePoints = 30;
-            int Area = 10;
+            
 
 
             List<double> shapeScoreh = new List<double>();
             List<double> shapeScorem = new List<double>();
 
-            
+            Console.WriteLine("Ange en längd");
+            int inputL = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Ange poäng för objektet");
+            int inputPoints = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Ange att det är en cirkel = 2");
+            int inputShapeType = Convert.ToInt32(Console.ReadLine());
+        
+            int shapeType = inputShapeType; 
+            int instancePoints = inputPoints; 
+            int Area = 10; 
             int x = 51;
             int y = 1;
-            int length = 50;
+            int length = inputL;
             int circleX = 0;
             int circleY = 1;
             int rad = (int)(length / (2 * Math.PI));
@@ -58,7 +69,7 @@ namespace test3
 
 
             Console.WriteLine(String.Join(", ", shapeScoreh));
-            Console.WriteLine(String.Join("", shapeScorem));
+            Console.WriteLine(String.Join(", ", shapeScorem));
         }
 
 
