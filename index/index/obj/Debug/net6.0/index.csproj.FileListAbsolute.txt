@@ -1,0 +1,15 @@
+C:\Users\Hanne\source\repos\index\index\bin\Debug\net6.0\index.exe
+C:\Users\Hanne\source\repos\index\index\bin\Debug\net6.0\index.deps.json
+C:\Users\Hanne\source\repos\index\index\bin\Debug\net6.0\index.runtimeconfig.json
+C:\Users\Hanne\source\repos\index\index\bin\Debug\net6.0\index.dll
+C:\Users\Hanne\source\repos\index\index\bin\Debug\net6.0\ref\index.dll
+C:\Users\Hanne\source\repos\index\index\bin\Debug\net6.0\index.pdb
+C:\Users\Hanne\source\repos\index\index\obj\Debug\net6.0\index.csproj.AssemblyReference.cache
+C:\Users\Hanne\source\repos\index\index\obj\Debug\net6.0\index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanne\source\repos\index\index\obj\Debug\net6.0\index.AssemblyInfoInputs.cache
+C:\Users\Hanne\source\repos\index\index\obj\Debug\net6.0\index.AssemblyInfo.cs
+C:\Users\Hanne\source\repos\index\index\obj\Debug\net6.0\index.csproj.CoreCompileInputs.cache
+C:\Users\Hanne\source\repos\index\index\obj\Debug\net6.0\index.dll
+C:\Users\Hanne\source\repos\index\index\obj\Debug\net6.0\ref\index.dll
+C:\Users\Hanne\source\repos\index\index\obj\Debug\net6.0\index.pdb
+C:\Users\Hanne\source\repos\index\index\obj\Debug\net6.0\index.genruntimeconfig.cache
